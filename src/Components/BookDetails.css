@@ -1,0 +1,38 @@
+.book-details {
+    text-align: center;
+    padding: 2em;
+  }
+  .book-details img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 1em;
+  }
+  
+  .book-details h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  
+  .book-details h2 {
+    font-size: 1.5em;
+    color: #555;
+  }
+  
+  .book-details p {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .add-to-cart {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    margin-top: 1em;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #218838;
+  }
+  
