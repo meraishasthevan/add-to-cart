@@ -4,7 +4,7 @@
     "img": "/images/book-1.jpeg",
     "title": "Making India Awesome",
     "author": "Chetan Bhagat",
-    "price": 10.99,
+    "price": 250,
     "description": "“Everything was beautiful and nothing hurt.”"
   },
   {
@@ -12,7 +12,7 @@
     "img": "/images/book-2.jpeg",
     "title": "Naked Triangle",
     "author": "Balwant Gargi",
-    "price": 8.99,
+    "price": 300,
     "description": "The word’s suffix means “to eat,” but the word doesn’t mean that someone is eating books."
   },
   {
@@ -20,7 +20,7 @@
     "img": "/images/book-3.jpeg",
     "title": "A Million Mutinies Now",
     "author": "V.S. Naipaul",
-    "price": 6.99,
+    "price": 500,
     "description": "The Bible is one such book, but this can apply to any other book, especially popular ones."
   }
 ]
